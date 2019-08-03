@@ -14,6 +14,7 @@ public class Class1
 	  hm.put(232,"my");
 	  hm.put(0,"er");
 	  hm.put(0,"newvalue");
+	  System.out.println("changes done");
 	  
 	   Set<Integer> all= hm.keySet();  // all the keys
 	  
